@@ -1,0 +1,4 @@
+# Bootstrap components
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.scotiabank.wsdl.starter.SoapAutoConfiguration
+
